@@ -2,4 +2,5 @@ spring:
   application:
     name: subtraction-service
 server:
-  port: 8071
+  port: 8072
+  address: localhost
